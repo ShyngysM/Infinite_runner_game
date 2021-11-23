@@ -1,6 +1,6 @@
 # Infinite runner
 
-### Ziel:
+### Ziel:	
 
 Das Ziel dieser Belegarbeit ist die Implementierung eines Arkade-Spiels von der Art
 ”Infinite Runner” in der Programmiersprache C++, um die wichtigen Grundlagen der
@@ -15,6 +15,3 @@ prozeduralen Programmierung zu meistern.
 4. Dokumentationskommentare in den Headern in ”Java-doc style”
 5. Selbsterstellte Speicherverwaltung mit std :: unique−ptr
 6. Ausnahmebehandlung mit Exceptions
-
-![GitHub Logo](//logo.png)
-Format: ![Alt Text](url)
