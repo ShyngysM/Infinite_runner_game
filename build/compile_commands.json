@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/mangust/cpp_projekts/beleg_inf_run/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/home/mangust/cpp_projekts/beleg_inf_run/src/core -isystem /usr/include/SDL2 -isystem /usr/include/freetype2  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/Infinite_Runner.dir/src/core/engine.cpp.o -c /home/mangust/cpp_projekts/beleg_inf_run/src/core/engine.cpp",
+  "file": "/home/mangust/cpp_projekts/beleg_inf_run/src/core/engine.cpp"
+},
+{
+  "directory": "/home/mangust/cpp_projekts/beleg_inf_run/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/home/mangust/cpp_projekts/beleg_inf_run/src/core -isystem /usr/include/SDL2 -isystem /usr/include/freetype2  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/Infinite_Runner.dir/src/core/point.cpp.o -c /home/mangust/cpp_projekts/beleg_inf_run/src/core/point.cpp",
+  "file": "/home/mangust/cpp_projekts/beleg_inf_run/src/core/point.cpp"
+},
+{
+  "directory": "/home/mangust/cpp_projekts/beleg_inf_run/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/home/mangust/cpp_projekts/beleg_inf_run/src/core -isystem /usr/include/SDL2 -isystem /usr/include/freetype2  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/Infinite_Runner.dir/src/core/rectangle.cpp.o -c /home/mangust/cpp_projekts/beleg_inf_run/src/core/rectangle.cpp",
+  "file": "/home/mangust/cpp_projekts/beleg_inf_run/src/core/rectangle.cpp"
+},
+{
+  "directory": "/home/mangust/cpp_projekts/beleg_inf_run/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/home/mangust/cpp_projekts/beleg_inf_run/src/core -isystem /usr/include/SDL2 -isystem /usr/include/freetype2  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/Infinite_Runner.dir/src/core/sprite.cpp.o -c /home/mangust/cpp_projekts/beleg_inf_run/src/core/sprite.cpp",
+  "file": "/home/mangust/cpp_projekts/beleg_inf_run/src/core/sprite.cpp"
+},
+{
+  "directory": "/home/mangust/cpp_projekts/beleg_inf_run/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/home/mangust/cpp_projekts/beleg_inf_run/src/core -isystem /usr/include/SDL2 -isystem /usr/include/freetype2  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/Infinite_Runner.dir/src/core/line.cpp.o -c /home/mangust/cpp_projekts/beleg_inf_run/src/core/line.cpp",
+  "file": "/home/mangust/cpp_projekts/beleg_inf_run/src/core/line.cpp"
+},
+{
+  "directory": "/home/mangust/cpp_projekts/beleg_inf_run/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/home/mangust/cpp_projekts/beleg_inf_run/src/core -isystem /usr/include/SDL2 -isystem /usr/include/freetype2  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/Infinite_Runner.dir/src/core/image.cpp.o -c /home/mangust/cpp_projekts/beleg_inf_run/src/core/image.cpp",
+  "file": "/home/mangust/cpp_projekts/beleg_inf_run/src/core/image.cpp"
+},
+{
+  "directory": "/home/mangust/cpp_projekts/beleg_inf_run/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/home/mangust/cpp_projekts/beleg_inf_run/src/core -isystem /usr/include/SDL2 -isystem /usr/include/freetype2  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/Infinite_Runner.dir/src/game/main.cpp.o -c /home/mangust/cpp_projekts/beleg_inf_run/src/game/main.cpp",
+  "file": "/home/mangust/cpp_projekts/beleg_inf_run/src/game/main.cpp"
+},
+{
+  "directory": "/home/mangust/cpp_projekts/beleg_inf_run/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DFMT_LOCALE -I/home/mangust/cpp_projekts/beleg_inf_run/src/core -isystem /usr/include/SDL2 -isystem /usr/include/freetype2  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/Infinite_Runner.dir/src/game/inf_run.cpp.o -c /home/mangust/cpp_projekts/beleg_inf_run/src/game/inf_run.cpp",
+  "file": "/home/mangust/cpp_projekts/beleg_inf_run/src/game/inf_run.cpp"
+}
+]

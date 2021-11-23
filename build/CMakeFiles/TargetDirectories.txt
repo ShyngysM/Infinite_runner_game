@@ -1,0 +1,3 @@
+/home/mangust/cpp_projekts/beleg_inf_run/build/CMakeFiles/rebuild_cache.dir
+/home/mangust/cpp_projekts/beleg_inf_run/build/CMakeFiles/edit_cache.dir
+/home/mangust/cpp_projekts/beleg_inf_run/build/CMakeFiles/Infinite_Runner.dir

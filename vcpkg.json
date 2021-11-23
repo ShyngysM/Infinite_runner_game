@@ -1,0 +1,9 @@
+{
+    "name": "posting",
+    "version-semver": "1.0.0",
+    "builtin-baseline": "92b42c4c680defe94f1665a847d04ded890f372e",
+
+    "dependencies": [
+      { "name": "sdl2" }
+    ]
+}

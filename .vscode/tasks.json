@@ -1,0 +1,9 @@
+{
+    "version": "2.0.0",
+    "tasks": [{
+        "label": "macOS: Terminalrechte anfordern",
+        "type": "shell",
+        "command": "osascript -e 'tell application \"Terminal\"\ndo script \"echo hello\"\nend tell'",
+        "problemMatcher": []
+    }]
+}
