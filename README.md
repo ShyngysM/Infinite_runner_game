@@ -17,4 +17,6 @@ prozeduralen Programmierung zu meistern.
 5. Selbsterstellte Speicherverwaltung mit std :: unique−ptr
 6. Ausnahmebehandlung mit Exceptions
 
-   
+### Struktur
+
+![Klassendiagramm](https://github.com/ShyngysM/Infinite_runner_game/blob/master/uml_ok1.png)
