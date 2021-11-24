@@ -16,4 +16,4 @@ prozeduralen Programmierung zu meistern.
 5. Selbsterstellte Speicherverwaltung mit std :: unique−ptr
 6. Ausnahmebehandlung mit Exceptions
 
-   `![Infinite runner](https://github.com/ShyngysM/Infinite_runner_game/blob/master/inf_run.gif)`
+   ![Infinite runner](https://github.com/ShyngysM/Infinite_runner_game/blob/master/inf_run.gif)
